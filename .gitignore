@@ -10,6 +10,7 @@ node_modules
 bower_components
 
 .DS_Store
+libs
 
 /demos/**/all.*
 /build/
